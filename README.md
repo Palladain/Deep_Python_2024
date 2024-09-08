@@ -3,4 +3,4 @@
 Лекция-1: [Pathlib, platform, sys](https://colab.research.google.com/github/Palladain/Deep_Python_2024/blob/main/Lectures/Deep_Lecture_01.ipynb)
 
 
-
+Семинар-1: [Pathlib, platform, sys](https://colab.research.google.com/github/Palladain/Deep_Python_2024/blob/main/Seminars/Deep_Seminar_01.ipynb)

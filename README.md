@@ -18,8 +18,8 @@
 
 | **Название раздела**                   | **Теоретические занятия**  | **Практические занятия**   | **Решенный семинар**        | **Домашнее задание**        |
 |:--------------------------------------:|:--------------------------:|:--------------------------:|:---------------------------:|:---------------------------:|
-| **Pathlib, platform, sys**                     | [**[Ссылка]**][01/lecture] | [**[Ссылка]**][01/seminar] | [**[Ссылка]**][01/seminar_solved] | TBD
-| **OOP, Typing, Pydantic**                     | [**[Ссылка]**][02/lecture] | TBD | TBD | TBD
+| **Pathlib, platform, sys**                     | [**[Ссылка]**][01/lecture] | [**[Ссылка]**][01/seminar] | [**[Ссылка]**][01/seminar_solved] | [**[Ссылка]**](https://classroom.github.com/a/gOHVueYG) (дедлайн - 23.09 23:59)
+| **OOP, Typing, Pydantic**                     | [**[Ссылка]**][02/lecture] | [**[Ссылка]**][02/seminar] | TBD | TBD
 
 
 <!-- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --->
@@ -28,4 +28,5 @@
 [01/seminar]: Seminars/Deep_Seminar_01.ipynb
 [01/seminar_solved]: Seminars/Deep_Seminar_01_solved.ipynb
 [02/lecture]: Lectures/Deep_Lecture_02.ipynb
+[02/seminar]: Seminars/Deep_Seminar_02.ipynb
 

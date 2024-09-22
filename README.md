@@ -30,5 +30,5 @@
 [01/seminar_solved]: Seminars/Deep_Seminar_01_solved.ipynb
 [02/lecture]: Lectures/Deep_Lecture_02.ipynb
 [02/seminar]: Seminars/Deep_Seminar_02.ipynb
-[02/lecture]: Lectures/Deep_Lecture_03.ipynb
+[03/lecture]: Lectures/Deep_Lecture_03.ipynb
 

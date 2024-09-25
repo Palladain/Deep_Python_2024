@@ -20,6 +20,7 @@
 |:--------------------------------------:|:--------------------------:|:--------------------------:|:---------------------------:|:---------------------------:|
 | **Pathlib, platform, sys**                     | [**[Ссылка]**][01/lecture] | [**[Ссылка]**][01/seminar] | [**[Ссылка]**][01/seminar_solved] | [**[Ссылка]**](https://classroom.github.com/a/gOHVueYG) (дедлайн - 23.09 23:59)
 | **OOP, Typing, Pydantic**                     | [**[Ссылка]**][02/lecture] | [**[Ссылка]**][02/seminar] | TBD | TBD
+| **Консультация 22.09**                     | [**[Ссылка]**](https://colab.research.google.com/drive/1F6wlp7qqpA4_xiKa_nsDBOG4WdMdONWu?usp=sharing) | - | - | -
 | **Тестирование + логгирование**                     | [**[Ссылка]**][03/lecture] | TBD | TBD | TBD
 
 

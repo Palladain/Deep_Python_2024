@@ -22,6 +22,7 @@
 | **OOP, Typing, Pydantic**                     | [**[Ссылка]**][02/lecture] | [**[Ссылка]**][02/seminar] | [**[Ссылка]**][02/seminar] | [**[Ссылка]**](https://classroom.github.com/a/yQyJ8Rkw) (дедлайн - 05.10 23:59)
 | **Консультация 22.09**                     | [**[Ссылка]**](https://colab.research.google.com/drive/1F6wlp7qqpA4_xiKa_nsDBOG4WdMdONWu?usp=sharing) | - | - | -
 | **Тестирование + логгирование**                     | [**[Ссылка]**][03/lecture] | [**[Ссылка]**][03/seminar]  | [**[Ссылка]**][03/seminar] | TBD
+| **Multiproccesing + Threading**                     | [**[Ссылка]**][04/lecture] | TBD  | TBD | TBD
 
 
 <!-- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --->
@@ -33,3 +34,4 @@
 [02/seminar]: Seminars/Deep_Seminar_02.ipynb
 [03/lecture]: Lectures/Deep_Lecture_03.ipynb
 [03/seminar]: Seminars/Deep_Seminar_03.ipynb
+[04/lecture]: Lectures/Deep_Lecture_04.ipynb

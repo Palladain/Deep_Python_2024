@@ -23,6 +23,7 @@
 | **Консультация 22.09**                     | [**[Ссылка]**](https://colab.research.google.com/drive/1F6wlp7qqpA4_xiKa_nsDBOG4WdMdONWu?usp=sharing) | - | - | -
 | **Тестирование + логгирование**                     | [**[Ссылка]**][03/lecture] | [**[Ссылка]**][03/seminar]  | - | TBD
 | **Multiproccesing + Threading**                     | [**[Ссылка]**][04/lecture] | [**[Ссылка]**][04/seminar]  | - | TBD
+| **Async**                     | [**[Ссылка]**][05/lecture] | TBD  | - | TBD
 
 
 <!-- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --->
@@ -36,3 +37,4 @@
 [03/seminar]: Seminars/Deep_Seminar_03.ipynb
 [04/lecture]: Lectures/Deep_Lecture_04.ipynb
 [04/seminar]: Seminars/Deep_Seminar_04.ipynb
+[05/lecture]: Lectures/Deep_Lecture_05.ipynb

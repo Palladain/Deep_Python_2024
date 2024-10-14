@@ -24,7 +24,7 @@
 | **Тестирование + логгирование**                     | [**[Ссылка]**][03/lecture] | [**[Ссылка]**][03/seminar]  | - | [**[Ссылка]**](https://classroom.github.com/a/v5NvPBbk) (дедлайн - 14.10 23:59)
 | **Multiproccesing + Threading**                     | [**[Ссылка]**][04/lecture] | [**[Ссылка]**][04/seminar]  | - | TBD
 | **Async**                     | [**[Ссылка]**][05/lecture] | [**[Ссылка]**][05/seminar]  | - | TBD
-| **Реляционные БД**                     | [**[Ссылка]**][06/lecture] | TBD  | - | TBD
+| **Реляционные БД**                     | [**[Ссылка]**][06/lecture] | [**[Ссылка]**][06/seminar]  | TBD | TBD
 
 
 <!-- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --->
@@ -41,3 +41,4 @@
 [05/lecture]: Lectures/Deep_Lecture_05.ipynb
 [05/seminar]: Seminars/Deep_Seminar_05.ipynb
 [06/lecture]: Lectures/Deep_Lecture_06.ipynb
+[05/seminar]: Seminars/Deep_Seminar_06_clean.ipynb

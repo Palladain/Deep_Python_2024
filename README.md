@@ -25,7 +25,7 @@
 | **Multiproccesing + Threading**                     | [**[Ссылка]**][04/lecture] | [**[Ссылка]**][04/seminar]  | - | [**[Ссылка]**](https://classroom.github.com/a/K85IHybA) (дедлайн - 20.10 23:59)
 | **Async**                     | [**[Ссылка]**][05/lecture] | [**[Ссылка]**][05/seminar]  | - | TBD
 | **Реляционные БД**                     | [**[Ссылка]**][06/lecture] | [**[Ссылка]**][06/seminar]  | TBD | TBD
-| **Нереляционные БД**                     | [**[Ссылка]**][07/lecture] | TBD  | TBD | TBD
+| **Нереляционные БД**                     | [**[Ссылка]**][07/lecture] | [**[Ссылка]**][07/seminar]  | TBD | TBD
 
 
 <!-- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --->
@@ -44,3 +44,4 @@
 [06/lecture]: Lectures/Deep_Lecture_06.ipynb
 [06/seminar]: Seminars/Deep_Seminar_06_clean.ipynb
 [07/lecture]: Lectures/Deep_Lecture_07.ipynb
+[07/seminar]: Seminars/Deep_Seminar_07.ipynb

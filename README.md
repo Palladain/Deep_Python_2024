@@ -22,7 +22,7 @@
 | **OOP, Typing, Pydantic**                     | [**[Ссылка]**][02/lecture] | [**[Ссылка]**][02/seminar] | - | [**[Ссылка]**](https://classroom.github.com/a/yQyJ8Rkw) (дедлайн - 05.10 23:59)
 | **Консультация 22.09**                     | [**[Ссылка]**](https://colab.research.google.com/drive/1F6wlp7qqpA4_xiKa_nsDBOG4WdMdONWu?usp=sharing) | - | - | -
 | **Тестирование + логгирование**                     | [**[Ссылка]**][03/lecture] | [**[Ссылка]**][03/seminar]  | - | [**[Ссылка]**](https://classroom.github.com/a/v5NvPBbk) (дедлайн - 14.10 23:59)
-| **Multiproccesing + Threading**                     | [**[Ссылка]**][04/lecture] | [**[Ссылка]**][04/seminar]  | - | [**[Ссылка]**](https://classroom.github.com/a/K85IHybA) (дедлайн - 20.10 23:59)
+| **Multiproccesing + Threading**                     | [**[Ссылка]**][04/lecture] | [**[Ссылка]**][04/seminar]  | - | [**[Ссылка]**](https://classroom.github.com/a/K85IHybA) (дедлайн - 23.10 23:59)
 | **Async**                     | [**[Ссылка]**][05/lecture] | [**[Ссылка]**][05/seminar]  | - | TBD
 | **Реляционные БД**                     | [**[Ссылка]**][06/lecture] | [**[Ссылка]**][06/seminar]  | TBD | TBD
 | **Нереляционные БД**                     | [**[Ссылка]**][07/lecture] | [**[Ссылка]**][07/seminar]  | TBD | TBD

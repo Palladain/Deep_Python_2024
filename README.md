@@ -24,8 +24,8 @@
 | **Тестирование + логгирование**                     | [**[Ссылка]**][03/lecture] | [**[Ссылка]**][03/seminar]  | - | [**[Ссылка]**](https://classroom.github.com/a/v5NvPBbk) (дедлайн - 14.10 23:59)
 | **Multiproccesing + Threading**                     | [**[Ссылка]**][04/lecture] | [**[Ссылка]**][04/seminar]  | - | [**[Ссылка]**](https://classroom.github.com/a/K85IHybA) (дедлайн - 23.10 23:59)
 | **Async**                     | [**[Ссылка]**][05/lecture] | [**[Ссылка]**][05/seminar]  | - | TBD
-| **Реляционные БД**                     | [**[Ссылка]**][06/lecture] | [**[Ссылка]**][06/seminar]  | TBD | TBD
-| **Нереляционные БД**                     | [**[Ссылка]**][07/lecture] | [**[Ссылка]**][07/seminar]  | TBD | TBD
+| **Реляционные БД**                     | [**[Ссылка]**][06/lecture] | [**[Ссылка]**][06/seminar]  | [**[Ссылка]**][] | TBD
+| **Нереляционные БД**                     | [**[Ссылка]**][07/lecture] | [**[Ссылка]**][07/seminar]  | [**[Ссылка]**](https://colab.research.google.com/drive/1dTQXOo3Ni-gxhuxEDnye2p89jzZChcp0?usp=sharing#scrollTo=xrJgwOdf-S2w) | TBD
 
 
 <!-- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --->

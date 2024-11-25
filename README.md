@@ -23,8 +23,8 @@
 | **Консультация 22.09**                     | [**[Ссылка]**](https://colab.research.google.com/drive/1F6wlp7qqpA4_xiKa_nsDBOG4WdMdONWu?usp=sharing) | - | - | -
 | **Тестирование + логгирование**                     | [**[Ссылка]**][03/lecture] | [**[Ссылка]**][03/seminar]  | - | [**[Ссылка]**](https://classroom.github.com/a/v5NvPBbk) (дедлайн - 14.10 23:59)
 | **Multiproccesing + Threading**                     | [**[Ссылка]**][04/lecture] | [**[Ссылка]**][04/seminar]  | - | [**[Ссылка]**](https://classroom.github.com/a/K85IHybA) (дедлайн - 23.10 23:59)
-| **Async**                     | [**[Ссылка]**][05/lecture] | [**[Ссылка]**][05/seminar]  | - | TBD
-| **Реляционные БД**                     | [**[Ссылка]**][06/lecture] | [**[Ссылка]**][06/seminar]  | [**[Ссылка]**](https://colab.research.google.com/drive/1dTQXOo3Ni-gxhuxEDnye2p89jzZChcp0?usp=sharing#scrollTo=xrJgwOdf-S2w) | TBD
+| **Async**                     | [**[Ссылка]**][05/lecture] | [**[Ссылка]**][05/seminar]  | - | [**[Ссылка]**](https://classroom.github.com/a/Rq7iWsJI) (дедлайн - 12.11 23:59)
+| **Реляционные БД**                     | [**[Ссылка]**][06/lecture] | [**[Ссылка]**][06/seminar]  | [**[Ссылка]**](https://colab.research.google.com/drive/1dTQXOo3Ni-gxhuxEDnye2p89jzZChcp0?usp=sharing#scrollTo=xrJgwOdf-S2w) | [**[Ссылка]**](https://classroom.github.com/a/TYP9KeR2) (дедлайн - 30.11 23:59)
 | **Нереляционные БД**                     | [**[Ссылка]**][07/lecture] | [**[Ссылка]**][07/seminar]  | [**[Ссылка]**][07/seminar_solved] | TBD
 
 

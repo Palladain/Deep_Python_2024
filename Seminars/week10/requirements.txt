@@ -1,0 +1,8 @@
+alembic
+asyncpg
+fastapi
+greenlet
+psycopg2
+pydantic
+sqlalchemy
+uvicorn

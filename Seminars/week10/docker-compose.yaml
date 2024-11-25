@@ -1,0 +1,22 @@
+services:
+  postgres:
+    container_name: postgres
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    healthcheck:
+      test: >
+        pg_isready
+        -U postgres
+        -d postgres
+        -h localhost
+        -p 5432
+      interval: 3s
+      timeout: 5s
+      retries: 5
+      start_period: 5s
+    image: postgres:13-alpine
+    restart: unless-stopped
+    ports:
+      - 5432:5432

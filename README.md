@@ -26,6 +26,10 @@
 | **Async**                     | [**[Ссылка]**][05/lecture] | [**[Ссылка]**][05/seminar]  | - | [**[Ссылка]**](https://classroom.github.com/a/Rq7iWsJI) (дедлайн - 12.11 23:59)
 | **Реляционные БД**                     | [**[Ссылка]**][06/lecture] | [**[Ссылка]**][06/seminar]  | [**[Ссылка]**](https://colab.research.google.com/drive/1dTQXOo3Ni-gxhuxEDnye2p89jzZChcp0?usp=sharing#scrollTo=xrJgwOdf-S2w) | [**[Ссылка]**](https://classroom.github.com/a/TYP9KeR2) (дедлайн - 30.11 23:59)
 | **Нереляционные БД**                     | [**[Ссылка]**][07/lecture] | [**[Ссылка]**][07/seminar]  | [**[Ссылка]**][07/seminar_solved] | TBD
+| **System Design Interview Prep**                     | [**[Ссылка]**](https://github.com/Palladain/Deep_Python_2024/blob/main/Lectures/System%20Design%20Interview%20Prep.pdf) | TBD | TBD | TBD
+| **Web**                     | [**[Ссылка]**][09/lecture] | TBD  | TBD | TBD
+| **FastAPI**                     | [**[Ссылка]**][10/lecture] | TBD  | TBD | TBD
+| **API, Telegram API, Aiogram**                     | [**[Ссылка]**][11/lecture] | TBD  | TBD | TBD
 
 
 <!-- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --->
@@ -46,3 +50,7 @@
 [07/lecture]: Lectures/Deep_Lecture_07.ipynb
 [07/seminar]: Seminars/Deep_Seminar_07.ipynb
 [07/seminar_solved]: Deep_Seminar_07_solved.ipynb
+
+[09/lecture]: Lectures/Deep_Lecture_09.ipynb
+[10/lecture]: Lectures/Deep_Lecture_10.ipynb
+[11/lecture]: Lectures/Deep_Lecture_11.ipynb

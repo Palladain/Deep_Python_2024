@@ -27,7 +27,7 @@
 | **Реляционные БД**                     | [**[Ссылка]**][06/lecture] | [**[Ссылка]**][06/seminar]  | [**[Ссылка]**](https://colab.research.google.com/drive/1dTQXOo3Ni-gxhuxEDnye2p89jzZChcp0?usp=sharing#scrollTo=xrJgwOdf-S2w) | [**[Ссылка]**](https://classroom.github.com/a/TYP9KeR2) (дедлайн - 30.11 23:59)
 | **Нереляционные БД**                     | [**[Ссылка]**][07/lecture] | [**[Ссылка]**][07/seminar]  | [**[Ссылка]**][07/seminar_solved] | TBD
 | **System Design Interview Prep**                     | [**[Ссылка]**](https://github.com/Palladain/Deep_Python_2024/blob/main/Lectures/System%20Design%20Interview%20Prep.pdf) | TBD | TBD | TBD
-| **Web**                     | [**[Ссылка]**][09/lecture] | TBD  | TBD | TBD
+| **Flask**                     | [**[Ссылка]**][09/lecture] | [**[Ссылка]**](https://github.com/Palladain/Deep_Python_2024/blob/main/Seminars/week09/seminar.ipynb)  | TBD | TBD
 | **FastAPI**                     | [**[Ссылка]**][10/lecture] | TBD  | TBD | TBD
 | **API, Telegram API, Aiogram**                     | [**[Ссылка]**][11/lecture] | TBD  | TBD | TBD
 
